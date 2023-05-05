@@ -1,0 +1,696 @@
+{
+  "CRIMSON_ISLE": {
+    "Aura's Lab": {
+      "display": "Aura's Lab",
+      "discordIconKey": "skyblock"
+    },
+    "Barbarian Outpost": {
+      "display": "Barbarian Outpost",
+      "discordIconKey": "skyblock"
+    },
+    "Belly of the Beast": {
+      "display": "Belly of the Beast",
+      "discordIconKey": "skyblock"
+    },
+    "Blazing Volcano": {
+      "display": "Blazing Volcano",
+      "discordIconKey": "skyblock"
+    },
+    "Burning Desert": {
+      "display": "Burning Desert",
+      "discordIconKey": "skyblock"
+    },
+    "Cathedral": {
+      "display": "Cathedral",
+      "discordIconKey": "skyblock"
+    },
+    "Chief's Hut": {
+      "display": "Chief's Hut",
+      "discordIconKey": "skyblock"
+    },
+    "Courtyard": {
+      "display": "Courtyard",
+      "discordIconKey": "skyblock"
+    },
+    "Crimson Fields": {
+      "display": "Crimson Fields",
+      "discordIconKey": "skyblock"
+    },
+    "Crimson Isle": {
+      "display": "Crimson Isle",
+      "discordIconKey": "skyblock"
+    },
+    "Dojo": {
+      "display": "Dojo",
+      "discordIconKey": "skyblock"
+    },
+    "Dragontail": {
+      "display": "Dragontail",
+      "discordIconKey": "skyblock"
+    },
+    "Dragontail AH": {
+      "display": "Dragontail AH",
+      "discordIconKey": "skyblock"
+    },
+    "Dragontail Bank": {
+      "display": "Dragontail Bank",
+      "discordIconKey": "skyblock"
+    },
+    "Dragontail Blacksmith": {
+      "display": "Dragontail Blacksmith",
+      "discordIconKey": "skyblock"
+    },
+    "Dragontail BZ": {
+      "display": "Dragontail BZ",
+      "discordIconKey": "skyblock"
+    },
+    "Dragontail Townsquare": {
+      "display": "Dragontail Townsquare",
+      "discordIconKey": "skyblock"
+    },
+    "Forgotten Skull": {
+      "display": "Forgotten Skull",
+      "discordIconKey": "skyblock"
+    },
+    "Igrupan's Chicken Coop": {
+      "display": "Igrupan's Chicken Coop",
+      "discordIconKey": "skyblock"
+    },
+    "Kuudra's End": {
+      "display": "Kuudra's End",
+      "discordIconKey": "skyblock"
+    },
+    "Mage Council": {
+      "display": "Mage Council",
+      "discordIconKey": "skyblock"
+    },
+    "Mage Outpost": {
+      "display": "Mage Outpost",
+      "discordIconKey": "skyblock"
+    },
+    "Magma Chamber": {
+      "display": "Magma Chamber",
+      "discordIconKey": "skyblock"
+    },
+    "Matriarch's Lair": {
+      "display": "Matriarch's Lair",
+      "discordIconKey": "skyblock"
+    },
+    "Minion Shop": {
+      "display": "Minion Shop",
+      "discordIconKey": "skyblock"
+    },
+    "Mystic Marsh": {
+      "display": "Mystic Marsh",
+      "discordIconKey": "skyblock"
+    },
+    "Odger's Hut": {
+      "display": "Odger's Hut",
+      "discordIconKey": "skyblock"
+    },
+    "Plhlegblast Pool": {
+      "display": "Plhlegblast Pool",
+      "discordIconKey": "skyblock"
+    },
+    "Ruins of Ashfang": {
+      "display": "Ruins of Ashfang",
+      "discordIconKey": "skyblock"
+    },
+    "Scarleton": {
+      "display": "Scarleton",
+      "discordIconKey": "skyblock"
+    },
+    "Scarleton AH": {
+      "display": "Scarleton AH",
+      "discordIconKey": "skyblock"
+    },
+    "Scarleton Bank": {
+      "display": "Scarleton Bank",
+      "discordIconKey": "skyblock"
+    },
+    "Scarleton Blacksmith": {
+      "display": "Scarleton Blacksmith",
+      "discordIconKey": "skyblock"
+    },
+    "Scarleton BZ": {
+      "display": "Scarleton BZ",
+      "discordIconKey": "skyblock"
+    },
+    "Scarleton Minion Shop": {
+      "display": "Scarleton Minion Shop",
+      "discordIconKey": "skyblock"
+    },
+    "Scarleton Plaza": {
+      "display": "Scarleton Plaza",
+      "discordIconKey": "skyblock"
+    },
+    "Smoldering Tomb": {
+      "display": "Smoldering Tomb",
+      "discordIconKey": "skyblock"
+    },
+    "Stronghold": {
+      "display": "Stronghold",
+      "discordIconKey": "skyblock"
+    },
+    "The Bastion": {
+      "display": "The Bastion",
+      "discordIconKey": "skyblock"
+    },
+    "The Dukedom": {
+      "display": "The Dukedom",
+      "discordIconKey": "skyblock"
+    },
+    "The Wasteland": {
+      "display": "The Wasteland",
+      "discordIconKey": "skyblock"
+    },
+    "Throne Room": {
+      "display": "Throne Room",
+      "discordIconKey": "skyblock"
+    }
+  },
+  "DEEP_CAVERNS": {
+    "Deep Caverns": {
+      "display": "The Deep Caverns",
+      "discordIconKey": "deep-caverns"
+    },
+    "Diamond Reserve": {
+      "display": "The Diamond Reserve",
+      "discordIconKey": "deep-caverns"
+    },
+    "Gunpowder Mines": {
+      "display": "The Gunpowder Mines",
+      "discordIconKey": "deep-caverns"
+    },
+    "Lapis Quarry": {
+      "display": "The Lapis Quarry",
+      "discordIconKey": "deep-caverns"
+    },
+    "Obsidian Sanctuary": {
+      "display": "The Obsidian Sanctuary",
+      "discordIconKey": "deep-caverns"
+    },
+    "Pigmen's Den": {
+      "display": "The Pigmen's Den",
+      "discordIconKey": "deep-caverns"
+    },
+    "Slimehill": {
+      "display": "The Slimehill",
+      "discordIconKey": "deep-caverns"
+    }
+  },
+  "DUNGEONS": {
+    "Dungeon Hub": {
+      "display": "Dungeon Hub",
+      "discordIconKey": "dungeons"
+    },
+    "The Catacombs": {
+      "display": "The Catacombs",
+      "discordIconKey": "dungeons"
+    }
+  },
+  "DWARVEN_MINES": {
+    "Aristocrat Passage": {
+      "display": "Aristocrat Passage",
+      "discordIconKey": "dwarven-mines"
+    },
+    "C&C Minecarts Co.": {
+      "display": "C&C Minecarts Co.",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Cliffside Veins": {
+      "display": "Cliffside Veins",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Divan's Gateway": {
+      "display": "Divan's Gateway",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Dwarven Mines": {
+      "display": "Dwarven Mines",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Dwarven Village": {
+      "display": "Dwarven Village",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Far Reserve": {
+      "display": "Far Reserve",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Forge Basin": {
+      "display": "Forge Basin",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Gates to the Mines": {
+      "display": "Gates to the Mines",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Goblin Burrows": {
+      "display": "Goblin Burrows",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Grand Library": {
+      "display": "Grand Library",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Great Ice Wall": {
+      "display": "Great Ice Wall",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Hanging Court": {
+      "display": "Hanging Court",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Hanging Terrace": {
+      "display": "Hanging Terrace",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Lava Springs": {
+      "display": "Lava Springs",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Miner's Guild": {
+      "display": "Miner's Guild",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Palace Bridge": {
+      "display": "Palace Bridge",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Rampart's Quarry": {
+      "display": "Rampart's Quarry",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Royal Mines": {
+      "display": "Royal Mines",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Royal Palace": {
+      "display": "Royal Palace",
+      "discordIconKey": "dwarven-mines"
+    },
+    "The Forge": {
+      "display": "The Forge",
+      "discordIconKey": "dwarven-mines"
+    },
+    "The Lift": {
+      "display": "The Lift",
+      "discordIconKey": "dwarven-mines"
+    },
+    "The Mist": {
+      "display": "The Mist",
+      "discordIconKey": "dwarven-mines"
+    },
+    "Upper Mines": {
+      "display": "Upper Mines",
+      "discordIconKey": "dwarven-mines"
+    }
+  },
+  "GOLD_MINE": {
+    "Gold Mine": {
+      "display": "The Gold Mine",
+      "discordIconKey": "gold-mine"
+    }
+  },
+  "CRYSTAL_HOLLOWS": {
+    "Crystal Hollows": {
+      "discordIconKey": "skyblock",
+      "display": "Crystal Hollows"
+    },
+    "Crystal Nucleus": {
+      "discordIconKey": "skyblock",
+      "display": "Crystal Nucleus"
+    },
+    "Fairy Grotto": {
+      "discordIconKey": "skyblock",
+      "display": "Fairy Grotto"
+    },
+    "Goblin Holdout": {
+      "discordIconKey": "skyblock",
+      "display": "Goblin Holdout"
+    },
+    "Goblin Queens Den": {
+      "discordIconKey": "skyblock",
+      "display": "Goblin Queens Den"
+    },
+    "Jungle": {
+      "discordIconKey": "skyblock",
+      "display": "Jungle"
+    },
+    "Jungle Temple": {
+      "discordIconKey": "skyblock",
+      "display": "Jungle Temple"
+    },
+    "Khazad-dûm": {
+      "discordIconKey": "skyblock",
+      "display": "Khazad-dûm"
+    },
+    "Lost Precursor City": {
+      "discordIconKey": "skyblock",
+      "display": "Lost Precursor City"
+    },
+    "Magma Fields": {
+      "discordIconKey": "skyblock",
+      "display": "Magma Fields"
+    },
+    "Mines of Divan": {
+      "discordIconKey": "skyblock",
+      "display": "Mines of Divan"
+    },
+    "Mithril Deposits": {
+      "discordIconKey": "skyblock",
+      "display": "Mithril Deposits"
+    },
+    "Precursor Remnants": {
+      "discordIconKey": "skyblock",
+      "display": "Precursor Remnants"
+    }
+  },
+  "JERRYS_WORKSHOP": {
+    "Jerry Pond": {
+      "display": "Jerry Pond",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Jerry's Workshop": {
+      "display": "Jerry's Workshop",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Mount Jerry": {
+      "display": "Mount Jerry",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Gary's Shack": {
+      "display": "Gary's Shack",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Glacial Cave": {
+      "display": "Glacial Cave",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Terry's Shack": {
+      "display": "Terry's Shack",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Hot Springs": {
+      "display": "Hot Springs",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Reflective Pond": {
+      "display": "Reflective Pond",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Sunken Jerry Pond": {
+      "display": "Jerry Pond",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Sherry's Showroom": {
+      "display": "Sherry's Showroom",
+      "discordIconKey": "jerrys-workshop"
+    },
+    "Einary's Emporium": {
+      "display": "Einary's Emporium",
+      "discordIconKey": "jerrys-workshop"
+    }
+  },
+  "MUSHROOM_DESERT": {
+    "Mushroom Desert": {
+      "display": "Mushroom Desert",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Desert Settlement": {
+      "display": "Desert Settlement",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Treasure Hunter Camp": {
+      "display": "Treasure Hunter Camp",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Oasis": {
+      "display": "Oasis",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Mushroom Gorge": {
+      "display": "Mushroom Gorge",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Glowing Mushroom Cave": {
+      "display": "Glowing Mushroom Cave",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Overgrown Mushroom Cave": {
+      "display": "Overgrown Mushroom Cave",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Jake's House": {
+      "display": "Jake's House",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Shepherds Keep": {
+      "display": "Shepherds Keep",
+      "discordIconKey": "mushroom-desert"
+    },
+    "Trapper's Den": {
+      "display": "Trapper's Den",
+      "discordIconKey": "mushroom-desert"
+    }
+  },
+  "OTHER": {
+    "None": {
+      "display": "None",
+      "discordIconKey": "skyblock"
+    },
+    "Unknown": {
+      "display": "Unknown",
+      "discordIconKey": "skyblock"
+    }
+  },
+  "PERSONAL_ISLAND": {
+    "(.+)'s Island": {
+      "display": "$1's Island",
+      "discordIconKey": "island"
+    },
+    "Your Island": {
+      "display": "Their Island",
+      "discordIconKey": "island"
+    },
+    "The Garden": {
+      "display": "The Garden",
+      "discordIconKey": "island"
+    }
+  },
+  "SPIDERS_DEN": {
+    "Spider's Den": {
+      "display": "The Spider's Den",
+      "discordIconKey": "spiders-den"
+    },
+    "Spider Mound": {
+      "display": "Spider Mound",
+      "discordIconKey": "spiders-den"
+    },
+    "Arachne's Burrow": {
+      "display": "The Spider's Den",
+      "discordIconKey": "spiders-den"
+    },
+    "Arachnes's Sanctuary": {
+      "display": "The Spider's Den",
+      "discordIconKey": "spiders-den"
+    },
+    "Grandma's House": {
+      "display": "The Spider's Den",
+      "discordIconKey": "spiders-den"
+    },
+    "Archaeologist's Camp": {
+      "display": "The Spider's Den",
+      "discordIconKey": "spiders-den"
+    },
+    "Gravel Mines": {
+      "display": "The Spider's Den",
+      "discordIconKey": "spiders-den"
+    }
+  },
+  "THE_BARN": {
+    "The Barn": {
+      "display": "The Barn",
+      "discordIconKey": "the-barn"
+    }
+  },
+  "THE_END": {
+    "Dragon's Nest": {
+      "display": "Dragon's Nest",
+      "discordIconKey": "the-end"
+    },
+    "The End": {
+      "display": "The End",
+      "discordIconKey": "the-end"
+    },
+    "Void Sepulture": {
+      "display": "Void Sepulture",
+      "discordIconKey": "the-end"
+    },
+    "Zealot Bruiser Hideout": {
+      "display": "Zealot Bruiser Hideout",
+      "discordIconKey": "the-end"
+    },
+    "Void Slate": {
+      "display": "Void Slate",
+      "discordIconKey": "the-end"
+    }
+  },
+  "THE_HUB": {
+    "Archery Range": {
+      "display": "Archery Range",
+      "discordIconKey": "auction-house"
+    },
+    "Auction House": {
+      "display": "Auction House",
+      "discordIconKey": "auction-house"
+    },
+    "Bank": {
+      "display": "Bank",
+      "discordIconKey": "village"
+    },
+    "Bazaar Alley": {
+      "display": "Bazaar Alley",
+      "discordIconKey": "bazaar-alley"
+    },
+    "Blacksmith": {
+      "display": "Blacksmith",
+      "discordIconKey": "village"
+    },
+    "Builder's House": {
+      "display": "Builder's House",
+      "discordIconKey": "village"
+    },
+    "Canvas Room": {
+      "display": "Canvas Room",
+      "discordIconKey": "village"
+    },
+    "Coal Mine": {
+      "display": "Coal Mine",
+      "discordIconKey": "coal-mine"
+    },
+    "Colosseum": {
+      "display": "Colosseum",
+      "discordIconKey": "colosseum"
+    },
+    "Community Center": {
+      "display": "Community Center",
+      "discordIconKey": "village"
+    },
+    "Dark Auction": {
+      "display": "Dark Auction",
+      "discordIconKey": "dark-auction"
+    },
+    "Election Room": {
+      "display": "Election Room",
+      "discordIconKey": "village"
+    },
+    "Farm": {
+      "display": "Farm",
+      "discordIconKey": "skyblock"
+    },
+    "Farmhouse": {
+      "display": "Farmhouse",
+      "discordIconKey": "village"
+    },
+    "Fashion Shop": {
+      "display": "Fashion Shop",
+      "discordIconKey": "village"
+    },
+    "Fisherman's Hut": {
+      "display": "Fisherman's Hut",
+      "discordIconKey": "skyblock"
+    },
+    "Flower House": {
+      "display": "Flower House",
+      "discordIconKey": "village"
+    },
+    "Forest": {
+      "display": "Forest",
+      "discordIconKey": "skyblock"
+    },
+    "Graveyard": {
+      "display": "Graveyard",
+      "discordIconKey": "skyblock"
+    },
+    "Unincorporated": {
+      "display": "Unincorporated",
+      "discordIconKey": "skyblock"
+    },
+    "Library": {
+      "display": "Library",
+      "discordIconKey": "village"
+    },
+    "Mountain": {
+      "display": "Mountain",
+      "discordIconKey": "mountain"
+    },
+    "Ruins": {
+      "display": "Ruins",
+      "discordIconKey": "ruins"
+    },
+    "Tavern": {
+      "display": "Tavern",
+      "discordIconKey": "village"
+    },
+    "Village": {
+      "display": "Village",
+      "discordIconKey": "village"
+    },
+    "Wilderness": {
+      "display": "Wilderness",
+      "discordIconKey": "skyblock"
+    },
+    "Wizard Tower": {
+      "display": "Wizard Tower",
+      "discordIconKey": "wizard-tower"
+    },
+    "Museum": {
+      "display": "Museum",
+      "discordIconKey": "village"
+    },
+    "Thaumaturgist": {
+      "display": "Thaumaturgist",
+      "discordIconKey": "village"
+    },
+    "Hexatorum": {
+      "display": "Hexatorum",
+      "discordIconKey": "village"
+    }
+  },
+  "THE_PARK": {
+    "Birch Park": {
+      "display": "Birch Park",
+      "discordIconKey": "the-park"
+    },
+    "Dark Thicket": {
+      "display": "Dark Thicket",
+      "discordIconKey": "the-park"
+    },
+    "Jungle Island": {
+      "display": "Jungle Island",
+      "discordIconKey": "the-park"
+    },
+    "Savanna Woodland": {
+      "display": "Savanna Woodland",
+      "discordIconKey": "the-park"
+    },
+    "Spruce Woods": {
+      "display": "Spruce Woods",
+      "discordIconKey": "the-park"
+    },
+    "Howling Cave": {
+      "display": "Howling Cave",
+      "discordIconKey": "the-park"
+    },
+    "Melody's Plateau": {
+      "display": "Melody's Plateau",
+      "discordIconKey": "the-park"
+    },
+    "Lonely Island": {
+      "display": "Lonely Island",
+      "discordIconKey": "the-park"
+    }
+  }
+}
