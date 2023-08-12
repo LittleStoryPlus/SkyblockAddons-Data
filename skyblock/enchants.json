@@ -378,6 +378,12 @@
       "maxLevel": 2,
       "nbtName": "rainbow"
     },
+    "reflection": {
+      "goodLevel": 5,
+      "loreName": "Reflection",
+      "maxLevel": 5,
+      "nbtName": "reflection"
+    },
     "rejuvenate": {
       "goodLevel": 0,
       "loreName": "Rejuvenate",
@@ -799,6 +805,12 @@
       "loreName": "Swarm",
       "maxLevel": 5,
       "nbtName": "ultimate_swarm"
+    },
+    "the one": {
+      "goodLevel": 0,
+      "loreName": "The One",
+      "maxLevel": 5,
+      "nbtName": "ultimate_the_one"
     },
     "ultimate jerry": {
       "goodLevel": 0,
