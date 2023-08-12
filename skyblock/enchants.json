@@ -372,6 +372,12 @@
       "maxLevel": 2,
       "nbtName": "punch"
     },
+    "quantum": {
+      "goodLevel": 5,
+      "loreName": "Quantum",
+      "maxLevel": 5,
+      "nbtName": "quantum"
+    },
     "rainbow": {
       "goodLevel": 1,
       "loreName": "Rainbow",
