@@ -324,6 +324,12 @@
       "maxLevel": 5,
       "nbtName": "overload"
     },
+    "pesterminator": {
+      "goodLevel": 0,
+      "loreName": "Pesterminator",
+      "maxLevel": 5,
+      "nbtName": "pesterminator"
+    },
     "piercing": {
       "goodLevel": 1,
       "loreName": "Piercing",
