@@ -1,4 +1,9 @@
 {
+  "ABYSSAL_MINER": {
+    "name": "Abyssal Miner",
+    "rarity": "LEGENDARY",
+    "spawnMessage": "An Abyssal Miner breaks out of the water!"
+  },
   "AGARIMOO": {
     "name": "Agarimoo",
     "rarity": "RARE",
@@ -119,10 +124,25 @@
     "rarity": "RARE",
     "spawnMessage": "You found a forgotten Nutcracker laying beneath the ice."
   },
+  "OASIS RABBIT": {
+    "name": "Oasis Rabbit",
+    "rarity": "RARE",
+    "spawnMessage": "An Oasis Rabbit appears from the water."
+  },
+  "OASIS SHEEP": {
+    "name": "Oasis Sheep",
+    "rarity": "RARE",
+    "spawnMessage": "An Oasis Sheep appears from the water."
+  },
   "PHANTOM_FISHER": {
     "name": "Phantom Fisher",
     "rarity": "LEGENDARY",
     "spawnMessage": "The spirit of a long lost Phantom Fisher has come to haunt you."
+  },
+  "PLHLEGBLAST": {
+    "name": "Plhlegblast",
+    "rarity": "LEGENDARY",
+    "spawnMessage": "WOAH! A Plhlegblast appeared."
   },
   "POISONED_WATER_WORM": {
     "name": "Poisoned Water Worm",
@@ -218,10 +238,5 @@
     "name": "Yeti",
     "rarity": "LEGENDARY",
     "spawnMessage": "What is this creature!?"
-  },
-  "ABYSSAL_MINER": {
-    "name": "Abyssal Miner",
-    "rarity": "LEGENDARY",
-    "spawnMessage": "An Abyssal Miner breaks out of the water!"
   }
 }
